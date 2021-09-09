@@ -1,0 +1,1 @@
+I build a simple digital clock with HTML, CSS and Javascript.
